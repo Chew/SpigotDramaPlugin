@@ -1,0 +1,16 @@
+name: SpigotDrama
+version: ${project.version}
+main: pw.chew.spigotdramaplugin.SpigotDramaPlugin
+api-version: 1.13
+authors: [ Chew ]
+description: Generate SpigotDrama on the fly!
+website: https://drama.essentialsx.net
+
+commands:
+  spigotdrama:
+    description: Generate a random Spigot Drama!
+    usage: "/<command>"
+
+permissions:
+  spigotdrama.generate:
+    default: true
