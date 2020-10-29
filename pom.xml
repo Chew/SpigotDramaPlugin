@@ -6,7 +6,7 @@
 
     <groupId>pw.chew</groupId>
     <artifactId>SpigotDramaPlugin</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <packaging>jar</packaging>
 
     <name>SpigotDramaPlugin</name>
@@ -76,7 +76,7 @@
         <dependency>
             <groupId>pro.chew.api</groupId>
             <artifactId>ChewAPI</artifactId>
-            <version>1.0-b3</version>
+            <version>1.0-b5</version>
         </dependency>
     </dependencies>
 </project>
